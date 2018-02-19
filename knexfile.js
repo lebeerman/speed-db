@@ -2,11 +2,8 @@
 
 module.exports = {
   development: {
-    client: 'postgresql',
-    connection: {
-      database: 'speed1'
-    },
-    debug: true
+    client: 'pg',
+    connection: 'postgres:///speed1'
   },
 
   production: { 
