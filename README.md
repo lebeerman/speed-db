@@ -87,6 +87,6 @@
 
 ### Reference Materials
 
-https://medium.com/@HalahSalih/how-to-deploy-an-express-app-to-heroku-with-postgresql-database-using-git-266e100d59ff
-https://medium.com/@HalahSalih/project-settings-for-an-express-app-with-knex-16959517b53b
-https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
+- https://medium.com/@HalahSalih/how-to-deploy-an-express-app-to-heroku-with-postgresql-database-using-git-266e100d59ff 
+- https://medium.com/@HalahSalih/project-settings-for-an-express-app-with-knex-16959517b53b
+- https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
